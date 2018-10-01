@@ -8,7 +8,7 @@ Users are presented with a list of cities and their weather conditions.
 A user can add a city or delete a city. 
 
 
-##To Run Locally
+## To Run Locally
 
 ```
 git clone https://github.com/reneedudley/climate
@@ -17,7 +17,7 @@ npm i
 npm start
 ```
 
-##To Test 
+## To Test 
 ```
 npm test
 ```
